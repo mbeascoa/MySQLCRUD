@@ -1,0 +1,2 @@
+rootProject.name = "MySQLCRUD"
+include ':app'
